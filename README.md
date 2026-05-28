@@ -30,4 +30,4 @@ The project aims to analyze customer review sentiments by processing textual rev
 
 ## Status
 
-Ongoing academic project (2025 – Present)
+Ongoing academic project (March 2026 – Present)
